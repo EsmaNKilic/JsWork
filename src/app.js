@@ -1,18 +1,18 @@
-console.log("Merhaba Kodlama.io")
+console.log("Merhaba Esma")
 
 //JS type safe değildir
-let dolarBugun = 9.30
+let dolarBugun = 18.30
 
-let dolarDun = 9.20
-dolarDun = "9.20"
+let dolarDun = 18.20
+dolarDun = "18.20"
 {
-    let dolarDun = 9.10
+    let dolarDun = 18.10
 }
 
 console.log(dolarDun)
 
-const euroDun = 11.2
-//euroDun = 11
+const euroDun = 19.2
+//euroDun = 19
 
 console.log(euroDun)
 
